@@ -31,4 +31,4 @@ The main components of the home page include:
 
 1. Clone the repository:  
    ```bash
-   git clone 
+   git clone https://github.com/mahnoortufailse/ItemNest.git
